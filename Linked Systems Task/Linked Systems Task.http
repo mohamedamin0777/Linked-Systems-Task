@@ -1,0 +1,6 @@
+@Linked_Systems_Task_HostAddress = http://localhost:5003
+
+GET {{Linked_Systems_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
